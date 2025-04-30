@@ -1,4 +1,4 @@
-# Denominator 🚀
+# Arginine 🚀
 
 A powerful CLI tool for generating React components with modern best practices and extensive customization options.
 
@@ -172,14 +172,11 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## Author ✍️
 
-Miten Gajjar
+Brijrajsinh Parmar
 
 ## Acknowledgments 🙏
 
-- React Community
-- Commander.js
-- TypeScript Team
-- All Contributors
+- Miten Gajjar (Original creator of Denominator)
 
 ## Roadmap 🗺️
 
